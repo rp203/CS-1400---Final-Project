@@ -5,6 +5,7 @@ import java.util.Scanner;
  * according to user-inputs including: weight, gender, number of drinks, and hours drinking.
  * Program later outputs whether current BAC is below or above legal limit.
  * @author Rheanne Pranata
+ * @since 2024-10-18
  * @version 1.0
  */
 
