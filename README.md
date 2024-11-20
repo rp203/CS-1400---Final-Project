@@ -18,5 +18,5 @@ Ultimately, the program will output the user's BAC, and whether it is above or b
 - After pressing `Enter` for hours drinking, program will output BAC and whether it is above or below legal limit.
 
 ## Features
-- Calculate BAC as a percentage.
-- Check whether BAC is above or below legal limit.
+- **Calculation:** Uses Widmark's Formula to calculate BAC as a percentage.
+- **Legal Limit Check:** Checks whether BAC is above or below legal limit.
